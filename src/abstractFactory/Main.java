@@ -1,11 +1,18 @@
 package abstractFactory;
 
 public class Main {
-
-	public static void main(String[] args) {
-		AbstractWidgetFactory widgetFactory = GUIBuilder.builderWindow("mac");
-		Window window = widgetFactory.createWindow();
-		System.out.println(window.getTitle());
+	private Main() {
 	}
 
+	public static void main(String[] args) {
+		AbstractWidgetFactory widgetFactory;
+		try {
+			widgetFactory = GUIBuilder.builderWindow("windows");
+			Window window = widgetFactory.createWindow();
+			System.out.println(window.getTitle());
+
+		} catch (NullPointerException | ClassCastException e) {
+			System.err.print(e.getMessage());
+		}
+	}
 }

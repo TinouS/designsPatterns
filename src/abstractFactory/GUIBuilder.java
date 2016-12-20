@@ -7,7 +7,8 @@ package abstractFactory;
  * ---- Producer ---
  */
 public class GUIBuilder {
-	public static AbstractWidgetFactory builderWindow(String choice) {
+	
+	public static AbstractWidgetFactory builderWindow(String choice){
 		if (choice == "mac") {
 			return new MacOSxWidgetFactory();
 		} else if (choice == "windows") {
