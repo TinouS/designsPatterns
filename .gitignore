@@ -4,3 +4,6 @@ target
 .classpath
 .project
 *.class
+.idea
+.iml
+/bin
