@@ -7,6 +7,8 @@ Design patterns implemented in Java !
 
 * <strong>Abstract Factory</strong> : Provide an interface for creating families of related or independent objects without specifying their concrete classes.
 
+* <strong>Prototype</strong> : Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype. : (to update)
+
 ## source:
 Design Patterns - Elements of reusable object-oriented Software. (Gang of Four)
 		
