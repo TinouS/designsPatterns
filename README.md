@@ -11,6 +11,8 @@ Design patterns implemented in Java !
 
 * <strong>Factory Method</strong> : Define an interface for creating an object, but let the subclasses decide which class to instantiate. The Factory method lets a class defer instantiation to subclasses.
 
+* <strong>Builder</strong> : Separate the construction of a complex object from its representation so that the same construction process can create different representations.
+
 ## source:
 Design Patterns - Elements of reusable object-oriented Software. (Gang of Four)
 		
