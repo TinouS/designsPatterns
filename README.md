@@ -13,6 +13,22 @@ Design patterns implemented in Java !
 
 * <strong>Builder</strong> : Separate the construction of a complex object from its representation so that the same construction process can create different representations.
 
+## Structural Patterns:
+
+* <strong>Bridge</strong> : Decouple an abstraction from its implementation so that the two can vary independently. 
+
+* <strong>Proxy</strong> : 
+
+* <strong>Composite</strong> :
+
+* <strong>Decorator</strong> :
+
+* <strong>Adapter</strong> :
+
+* <strong>Facade</strong> :
+
+* <strong>Flyweight</strong> :
+
 ## source:
 Design Patterns - Elements of reusable object-oriented Software. (Gang of Four)
 		
