@@ -1,5 +1,5 @@
 # Design Patterns
-Design patterns implemented in Java ! 
+Design patterns implemented in Java ! (simple & small examples)
 
 ## Creational Patterns:
 
