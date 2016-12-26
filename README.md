@@ -19,15 +19,15 @@ Design patterns implemented in Java ! (simple & small examples)
 
 &#x1F53A;<strong>Proxy</strong> : Provide a surrogation or placeholder for another object to control access to it.
 
-&#x1F53A;<strong>Composite</strong> :
+&#x1F53B;<strong>Composite</strong> :
 
-&#x1F53A;<strong>Decorator</strong> :
+&#x1F53B;<strong>Decorator</strong> :
 
 &#x1F53A;<strong>Adapter</strong> : Convert the interface of a class into another interface clients expects. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
 
 &#x1F53A;<strong>Facade</strong> : Provide a unified interface to a set of interfaces in a subsystem. Facade define a higher-level interface that makes the subsystem easier to use. 
 
-&#x1F53A;<strong>Flyweight</strong> :
+&#x1F53A;<strong>Flyweight</strong> : Use sharing to support large numbers of fine-grained objects efficiently.
 
 ## source:
 Design Patterns - Elements of reusable object-oriented Software. (Gang of Four) &#x1F4D8;
