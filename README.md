@@ -17,7 +17,7 @@ Design patterns implemented in Java !
 
 * <strong>Bridge</strong> : Decouple an abstraction from its implementation so that the two can vary independently. 
 
-* <strong>Proxy</strong> : 
+* <strong>Proxy</strong> : Provide a surrogation or placeholder for another object to control access to it.
 
 * <strong>Composite</strong> :
 
