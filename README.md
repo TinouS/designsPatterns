@@ -23,7 +23,7 @@ Design patterns implemented in Java ! (simple & small examples)
 
 * <strong>Decorator</strong> :
 
-* <strong>Adapter</strong> :
+* <strong>Adapter</strong> : Convert the interface of a class into another interface clients expects. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
 
 * <strong>Facade</strong> :
 
