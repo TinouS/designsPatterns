@@ -3,34 +3,34 @@ Design patterns implemented in Java ! (simple & small examples)
 
 ## Creational Patterns:
 
-* <strong>Singleton</strong> : Ensure a class only has one access, and provide a global point of access to it.
+&#x1F53A;<strong>Singleton</strong> : Ensure a class only has one access, and provide a global point of access to it.
 
-* <strong>Abstract Factory</strong> : Provide an interface for creating families of related or independent objects without specifying their concrete classes.
+&#x1F53A;<strong>Abstract Factory</strong> : Provide an interface for creating families of related or independent objects without specifying their concrete classes.
 
-* <strong>Prototype</strong> : Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype.
+&#x1F53A;<strong>Prototype</strong> : Specify the kinds of objects to create using a prototypical instance, and create new objects by copying this prototype.
 
-* <strong>Factory Method</strong> : Define an interface for creating an object, but let the subclasses decide which class to instantiate. The Factory method lets a class defer instantiation to subclasses.
+&#x1F53A;<strong>Factory Method</strong> : Define an interface for creating an object, but let the subclasses decide which class to instantiate. The Factory method lets a class defer instantiation to subclasses.
 
-* <strong>Builder</strong> : Separate the construction of a complex object from its representation so that the same construction process can create different representations.
+&#x1F53A;<strong>Builder</strong> : Separate the construction of a complex object from its representation so that the same construction process can create different representations.
 
 ## Structural Patterns:
 
-* <strong>Bridge</strong> : Decouple an abstraction from its implementation so that the two can vary independently. 
+&#x1F53A;<strong>Bridge</strong> : Decouple an abstraction from its implementation so that the two can vary independently. 
 
-* <strong>Proxy</strong> : Provide a surrogation or placeholder for another object to control access to it.
+&#x1F53A;<strong>Proxy</strong> : Provide a surrogation or placeholder for another object to control access to it.
 
-* <strong>Composite</strong> :
+&#x1F53A;<strong>Composite</strong> :
 
-* <strong>Decorator</strong> :
+&#x1F53A;<strong>Decorator</strong> :
 
-* <strong>Adapter</strong> : Convert the interface of a class into another interface clients expects. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
+&#x1F53A;<strong>Adapter</strong> : Convert the interface of a class into another interface clients expects. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
 
-* <strong>Facade</strong> : Provide a unified interface to a set of interfaces in a subsystem. Facade define a higher-level interface that makes the subsystem easier to use. 
+&#x1F53A;<strong>Facade</strong> : Provide a unified interface to a set of interfaces in a subsystem. Facade define a higher-level interface that makes the subsystem easier to use. 
 
-* <strong>Flyweight</strong> :
+&#x1F53A;<strong>Flyweight</strong> :
 
 ## source:
-Design Patterns - Elements of reusable object-oriented Software. (Gang of Four)
+Design Patterns - Elements of reusable object-oriented Software. (Gang of Four) &#x1F4D8;
 		
 							Erich Gamma
 							Richard Helm
