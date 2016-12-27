@@ -21,7 +21,7 @@ Design patterns implemented in Java ! (simple & small examples)
 
 &#x1F53B;<strong>Composite</strong> :
 
-&#x1F53B;<strong>Decorator</strong> :
+&#x1F53A;<strong>Decorator</strong> : Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.  
 
 &#x1F53A;<strong>Adapter</strong> : Convert the interface of a class into another interface clients expects. Adapter lets classes work together that couldn't otherwise because of incompatible interfaces.
 
