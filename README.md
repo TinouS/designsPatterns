@@ -19,7 +19,7 @@ Design patterns implemented in Java ! (simple & small examples)
 
 &#x1F53A;<strong>Proxy</strong> : Provide a surrogation or placeholder for another object to control access to it.
 
-&#x1F53B;<strong>Composite</strong> :
+&#x1F53A;<strong>Composite</strong> : Compose objects into tree structures to represent part-whole hierarchies.Composite lets clients treat undividual objects and composition of objects uniformly.  
 
 &#x1F53A;<strong>Decorator</strong> : Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing for extending functionality.  
 
