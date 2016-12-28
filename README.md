@@ -29,6 +29,15 @@ Design patterns implemented in Java ! (simple & small examples)
 
 &#x1F53A;<strong>Flyweight</strong> : Use sharing to support large numbers of fine-grained objects efficiently.
 
+## Behavioral Patterns:
+
+&#x1F53B;<strong>Observer</strong> :
+&#x1F53B;<strong>Visitor</strong> :
+&#x1F53B;<strong>Memento</strong> :
+&#x1F53B;<strong>Iterator</strong> :
+&#x1F53B;<strong>Chain of Responsibility</strong> :
+&#x1F53B;<strong>Mediator</strong> :
+
 ## source:
 Design Patterns - Elements of reusable object-oriented Software. (Gang of Four) &#x1F4D8;
 		
