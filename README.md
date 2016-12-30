@@ -33,17 +33,17 @@ Design patterns implemented in Java ! (simple & small examples)
 
 &#x1F53A;<strong>Observer</strong> : Define a one to many dependency between objects so that when one objects change state, all its dependents are notified and updated automatically.
 
-&#x1F53B;<strong>Visitor</strong> : Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which its operates.
+&#x1F53A;<strong>Visitor</strong> : Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which its operates.
 
-&#x1F53B;<strong>Memento</strong> : Without violating encapsulation, capture and externalize an object's internal state so that the object can be restored to this state later.
+&#x1F53A;<strong>Memento</strong> : Without violating encapsulation, capture and externalize an object's internal state so that the object can be restored to this state later.
 
-&#x1F53B;<strong>Iterator</strong> : Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation. 	  
+&#x1F53A;<strong>Iterator</strong> : Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation. 	  
 
-&#x1F53B;<strong>Chain of Responsibility</strong> :
+&#x1F53A;<strong>Chain of Responsibility</strong> :
 
 &#x1F53B;<strong>Mediator</strong> :
 
-&#x1F53B;<strong>Command</strong> :
+&#x1F53A;<strong>Command</strong> : Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations. 
 
 ## source:
 Design Patterns - Elements of reusable object-oriented Software. (Gang of Four) &#x1F4D8;
