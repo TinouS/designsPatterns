@@ -31,12 +31,19 @@ Design patterns implemented in Java ! (simple & small examples)
 
 ## Behavioral Patterns:
 
-&#x1F53B;<strong>Observer</strong> :
+&#x1F53A;<strong>Observer</strong> : Define a one to many dependency between objects so that when one objects change state, all its dependents are notified and updated automatically.
+
 &#x1F53B;<strong>Visitor</strong> :
+
 &#x1F53B;<strong>Memento</strong> :
+
 &#x1F53B;<strong>Iterator</strong> :
+
 &#x1F53B;<strong>Chain of Responsibility</strong> :
+
 &#x1F53B;<strong>Mediator</strong> :
+
+&#x1F53B;<strong>Command</strong> :
 
 ## source:
 Design Patterns - Elements of reusable object-oriented Software. (Gang of Four) &#x1F4D8;
