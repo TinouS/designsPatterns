@@ -33,11 +33,11 @@ Design patterns implemented in Java ! (simple & small examples)
 
 &#x1F53A;<strong>Observer</strong> : Define a one to many dependency between objects so that when one objects change state, all its dependents are notified and updated automatically.
 
-&#x1F53B;<strong>Visitor</strong> :
+&#x1F53B;<strong>Visitor</strong> : Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which its operates.
 
 &#x1F53B;<strong>Memento</strong> :
 
-&#x1F53B;<strong>Iterator</strong> :
+&#x1F53B;<strong>Iterator</strong> : Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation. 	  
 
 &#x1F53B;<strong>Chain of Responsibility</strong> :
 
