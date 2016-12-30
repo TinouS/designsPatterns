@@ -35,7 +35,7 @@ Design patterns implemented in Java ! (simple & small examples)
 
 &#x1F53B;<strong>Visitor</strong> : Represent an operation to be performed on the elements of an object structure. Visitor lets you define a new operation without changing the classes of the elements on which its operates.
 
-&#x1F53B;<strong>Memento</strong> :
+&#x1F53B;<strong>Memento</strong> : Without violating encapsulation, capture and externalize an object's internal state so that the object can be restored to this state later.
 
 &#x1F53B;<strong>Iterator</strong> : Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation. 	  
 
