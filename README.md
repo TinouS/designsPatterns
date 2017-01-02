@@ -39,9 +39,9 @@ Design patterns implemented in Java ! (simple & small examples)
 
 &#x1F53A;<strong>Iterator</strong> : Provide a way to access the elements of an aggregate object sequentially without exposing its underlying representation. 	  
 
-&#x1F53A;<strong>Chain of Responsibility</strong> :
+&#x1F53A;<strong>Chain of Responsibility</strong> : Avoid coupling the sender of request to its receiver by given more than one object a chance to handle the request. chain the receiving objects and pass the request along the chain until an object handle it.  
 
-&#x1F53B;<strong>Mediator</strong> :
+&#x1F53B;<strong>Mediator</strong> : 
 
 &#x1F53A;<strong>Command</strong> : Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations. 
 
