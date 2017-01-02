@@ -41,7 +41,7 @@ Design patterns implemented in Java ! (simple & small examples)
 
 &#x1F53A;<strong>Chain of Responsibility</strong> : Avoid coupling the sender of request to its receiver by given more than one object a chance to handle the request. chain the receiving objects and pass the request along the chain until an object handle it.  
 
-&#x1F53B;<strong>Mediator</strong> : 
+&#x1F53A;<strong>Mediator</strong> : Define an object that encapsulates how a set of objects interacts. Mediator promotes loose coupling by keeping objects from referring to each other explicitly, and lets you vary their interaction independently.
 
 &#x1F53A;<strong>Command</strong> : Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests, and support undoable operations. 
 
